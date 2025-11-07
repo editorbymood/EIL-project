@@ -1,4 +1,4 @@
-import reactLogo from './assets/react.svg'
+import reactLogo from './assets/react.svg';
 import Home from './components/lander.jsx';
 import LoginPage from './components/new_login';
 import "./App.css"; // Ensure to import your CSS file
